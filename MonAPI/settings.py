@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'my_first_app',  # Mon application personnalisée
+    'TP2_app',  # Application du TP2
 ]
 
 MIDDLEWARE = [
